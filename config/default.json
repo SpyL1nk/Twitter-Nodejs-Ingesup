@@ -1,0 +1,9 @@
+{
+  "Twitter": {
+    "consumer_key": "",
+    "consumer_secret": "",
+    "access_token_key": "",
+    "access_token_secret": ""
+  }
+}
+// If you need help with user-auth Twitter API, check https://code.google.com/archive/p/socialauth-android/wikis/Twitter.wiki
